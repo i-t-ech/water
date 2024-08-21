@@ -1,0 +1,15 @@
+ admin login
+Email   : admin@mail.com
+Password: codeastro.com
+
+client login
+sam12@gmail.com
+1234
+
+employee login
+kemei@gmail.com
+12345
+
+service provider login
+sifa@gmail.com
+12345
